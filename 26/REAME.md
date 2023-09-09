@@ -9,3 +9,7 @@
 # Variables 
 `nums`: 32 length array. Each element in the array is 32 bit.
 `modified_nums`: 32 length array. Each element in the array is 32 bit.
+
+# Status Quo
+- Not tested
+- Paralelization to reduce the clock number
